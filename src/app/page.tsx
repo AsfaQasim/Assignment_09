@@ -62,7 +62,7 @@ const Products = async () => {
 
                 <Link href={`products/${pro.id}`}>
                   <button className="mt-3 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">
-                    Add to Cart
+                    View Details
                   </button>
                 </Link>
               </div>
